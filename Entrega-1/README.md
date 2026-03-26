@@ -11,7 +11,6 @@
 # Antecedentes del tema
 #### Actualmente, lo único que se comenta sobre esto es analizar las faltas más duras durante los Superclásicos, pero no hay otra investigación presente 
 # Datos
-### ¿Qué datos necesita para probar su hipótesis?
 #### Datos sobre las estadísticas de cada partido oficial del siglo 21, contabilizando, el lugar en dónde se jugó, quién fue local en cada ocasión, faltas realizadas por ambos equipos, tarjetas realizadas por ambos equipos, penales generados y resultados de los partidos.
-### ¿Qué datos tiene y qué datos necesita conseguir aún?
-#### Se tienen presente los datos de los partidos de los últimos 12 años, mientras el resto esta en proceso de recopilación
+#### Se tienen presente los datos de los partidos de los últimos 12 años, mientras el resto esta en proceso de recopilación, aunque por lo general todoas las estadísticas están de forma pública en internet y las páginas deportivas como ESPN, la ANFP, Sofascore, ProMedios, entre otras.
+# Preguntas a responder
