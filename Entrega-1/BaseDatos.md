@@ -12,6 +12,7 @@
 #### o	Tarjetas Amarillas 
 #### o	Tarjetas Rojas 
 #### o	Arbitro 
+#### o	Resultados 
 ## Ficha Metodológica
 #### •	Autor: Grupo de investigación (Uds.) basado en datos de la ANFP.
 #### •	Contenido: Estadísticas de disciplina de partidos oficiales entre Colo-Colo y U. de Chile (2000-2025).
