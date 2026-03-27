@@ -11,7 +11,7 @@
 #### o	Total Faltas 
 #### o	Tarjetas Amarillas 
 #### o	Tarjetas Rojas 
-#### o	Arbitro 
+#### o	Árbitro 
 #### o	Resultados 
 ## Ficha Metodológica
 #### •	Autor: Grupo de investigación (Uds.) basado en datos de la ANFP.
