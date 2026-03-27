@@ -6,7 +6,7 @@
 #### Durante años se comenta que los Superclásicos son partidos que se juegan diferente al resto del campeonato, donde las ganas por parte de un equipo son a veces más importantes que en cómo juega, por lo que suelen ser partidos de mucho contacto y que las faltas son parte presente y determinante durante cada partido.
 #### En este trabajo, se recogerán los datos de cada partido oficial entre Universidad de Chile y Colo-Colo del siglo 21, entre la liga nacional, Copa Chile y Supercopa Nacional, con el propósito de analizar la cantidad de faltas que se realizan en cada Superclásico y compararlas en distintos aspectos, como cantidad de faltas, cantidad de tarjetas, penales ocasionados, lugar del enfrentamiento, resultados, entre otros. Para luego diferenciarlas entre años, tipo de competición e instancia de cada competición, para entender si hay una alza en la realización de estas y en qué circunstancias se generan con mayor normalidad.
 ## Hipótesis
-#### La agresividad fuera de la cancha en los superclásicos durante estos últimos  años, ha provocado que dentro de la cancha los partidos sean más agresivos y se cometan más faltas estos años que en los inicios de este siglo.
+#### Con los avances tecnológicos, tales como la tecnología VAR, y medidas para cuidar la integridad y promover un juego limpio; los Superclásicos actualmente son mucho menos agresivos que lo que fueron en un inicio de siglo.
 ## Antecedentes del tema
 #### Actualmente, lo único que se comenta sobre esto es analizar las faltas más duras durante los Superclásicos, pero no hay otra investigación presente. 
 ## Datos
