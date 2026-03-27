@@ -21,6 +21,6 @@
 #### 6. ¿Cuál es el jugador que más faltas ha hecho en un Superclásico?
 ## Historia visual
 #### La historia que queremos contar en este proyecto es una investigación sobre la cantidad de faltas cometidas durante un Superclásico del siglo XXl, unos datos en los que no se toma mucho peso, ya que solo se abordan algunos temas en específico como faltas agresivas en vez de todos los datos que ofrecen a investigar, por lo que queremos contarlo de una forma sencilla y fácil de entender para todo público, en el que se muestre de forma ordenada y cronológica, con una temática para que todo aficionado a este deporte pueda sentir lo que representa este enfrentamiento en el país.
-####
+#### Los elementros gráficos que nos gustaría realizar para narrar la historia, es en primer lugar, realizar una línea temporal en donde se pueda revisar partido por partido ordenado desde el año 2000 hacía adelante, todos los datos de la investigación, más algunos datos extras como el resultado y la indumentaria de cada equipo en dicha ocasión.
 ## Resultados
 #### aa
