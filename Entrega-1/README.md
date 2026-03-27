@@ -13,11 +13,11 @@
 #### Datos sobre las estadísticas de cada partido oficial del siglo XXI, contabilizando el lugar en donde se jugó, quién fue local en cada ocasión, faltas realizadas por ambos equipos, tarjetas realizadas por ambos equipos, penales generados y resultados de los partidos.
 #### Se tienen presentes los datos de los partidos de los últimos 12 años, mientras el resto está en proceso de recopilación, aunque, por lo general, todas las estadísticas están de forma pública en internet y en las páginas deportivas como ESPN, la ANFP, Sofascore, ProMedios, entre otras.
 ## Preguntas a responder
-#### 1. ¿Cada vez se juega de forma más agresiva un Superclásico?
+#### 1. ¿Cada vez se juega de forma más agresiva o más pasivo un Superclásico?
 #### 2. ¿Qué equipo comete más faltas en los Superclásicos?
 #### 3. ¿En qué circuntancias se dan más de que un partido tenga más faltas de lo promedio en un Superclásico?
 #### 4. ¿Hay alguna relación entre las faltas y el resultado de partido?
 ## Historia visual
-#### aaa
+#### La historia que queremos contar en este proyecto es 
 ## Resultados
 #### aa
