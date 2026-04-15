@@ -7,7 +7,7 @@
 #### - Colo-Colo local
 #### - U de Chile local 
 #### - Torneo Nacional
-#### - Copa Chile#### - Supercopa
+#### - Copa Chile - Supercopa
 #### - Árbitros
 #### - Estadios
 #### - Resultados
